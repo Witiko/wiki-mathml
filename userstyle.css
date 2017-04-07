@@ -1,6 +1,6 @@
 @-moz-document domain("wikipedia.org") {
   /* hide fallback math */
-  .mwe-math-fallback-image-inline {
+  .mwe-math-fallback-image-inline, .mwe-math-fallback-image-display {
     display: none;
   }
   /* display MathML math */
