@@ -1,0 +1,15 @@
+@-moz-document domain("wikipedia.org") {
+  /* hide fallback math */
+  .mwe-math-fallback-image-inline {
+    display: none;
+  }
+  /* display MathML math */
+  .mwe-math-mathml-a11y {
+    clip: auto;
+    overflow: visible;
+    position: static;
+    width: auto;
+    height: auto;
+    opacity: inherit;
+  }
+}
