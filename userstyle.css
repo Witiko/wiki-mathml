@@ -1,5 +1,5 @@
 @-moz-document domain("wikipedia.org") {
-  /* hide fallback math */
+  /* hide SVG math */
   .mwe-math-fallback-image-inline, .mwe-math-fallback-image-display {
     display: none;
   }
