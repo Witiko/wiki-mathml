@@ -4,7 +4,7 @@ similar and install the [userstyle.css](userstyle.css) file into it.
 
   [stylish]: https://addons.mozilla.org/cs/firefox/addon/stylish/
 
-# Defaul SVG Math
+# Default SVG Math
 
  ![default math](before.png)
 
